@@ -1,7 +1,6 @@
 # express-service
-
-
-using Express*
+##node.js
+,using Express*
 * Create two arrays (user array, post array)
 
 User end points
